@@ -1,0 +1,24 @@
+# Core dependencies
+openai==1.65.1
+SpeechRecognition==3.10.0
+googletrans==4.0.0-rc1
+pywhatkit==5.4
+pyautogui==0.9.54
+keyboard==0.13.5
+
+# Web & Automation
+selenium==4.10.0
+
+# System utilities
+pyaudio==0.2.13
+platformdirs==3.10.0
+
+# Networking & Requests
+httpx==0.28.1
+
+# Additional utilities
+certifi==2025.1.31
+chardet==3.0.4
+idna==2.10
+sniffio==1.3.1
+hstspreload==2025.1.1
